@@ -1,0 +1,3 @@
+teks yang di enkripsi : manchester united
+Jumlah enkripsi : 7
+Hasil pengenkripsian teks manchester united adalah : ZN[PUR`aR_ b[VaRQ

@@ -1,0 +1,4 @@
+Teks yang akan dienkripsi : manchester united
+Jumlah geseran enkripsi : 7
+
+Hasil pengenkripsian teks manchester united adalah : fZg\a^lm^k ngbm^]
